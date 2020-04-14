@@ -64,6 +64,7 @@ const covid19ImpactEstimator = (data) => {
         severeImpact
     };
 
+    // console.log(result);
     return result;
 };
 
